@@ -2,3 +2,4 @@ scikit_learn
 flask
 numpy
 uvicorn
+gunicorn
