@@ -1,6 +1,8 @@
-gunicorn
-scikit_learn
-flask
-numpy
+
+fastapi
 uvicorn
+gunicorn
+scikit-learn
+numpy
+
 
